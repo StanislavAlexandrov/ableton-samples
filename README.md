@@ -9,3 +9,10 @@ Select one or multiple .ALS files (Ableton Live project file) and all samples an
 ## Usage
 
 python3 abletonsamplesFinal.py
+
+If you have a lot of projects for further readability you can import the data into Sublime Text and do 'permute lines - unique'.
+
+### Known issues
+
+1. Can take a while due to inefficient coding. :) Wait for it to be finished.
+2. VST functionality in beta testing
