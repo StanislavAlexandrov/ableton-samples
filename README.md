@@ -21,7 +21,7 @@ If you have a lot of projects for further readability you can import the data in
 EDIT: New command line version will list ALL the samples from a folder of projects. 
 On the Mac:
 1. Copy the abletonSamplesFinal_ALL_COMMANDLINE.py file into the root of the directory with your projects
-2. Open the terminal and go inside the same project directory (cd NAME_OF_YOUR_DIRECTORY)
+2. Open the terminal and go inside the same project directory (cd PATH_TO_YOUR_DIRECTORY) You can drag the folder into the terminal instead of typing. 
 3. In the terminal enter (no quotes): 'python3 abletonSamplesFinal_ALL_COMMANDLINE.py > allSamples.txt'
 All the sample names with respective directories will be saved to 'allSamples.txt'
 
