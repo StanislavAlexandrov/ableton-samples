@@ -18,4 +18,11 @@ then inside the folder that has the script:
 
 If you have a lot of projects for further readability you can import the data into Sublime Text and do 'permute lines - unique'.
 
+EDIT: New command line version will list ALL the samples from a folder of projects. 
+On the Mac:
+1. Copy the abletonSamplesFinal_ALL_COMMANDLINE.py file into the root of the directory with your projects
+2. Open the terminal and go inside the same project directory (cd NAME_OF_YOUR_DIRECTORY)
+3. In the terminal enter (no quotes): 'python3 abletonSamplesFinal_ALL_COMMANDLINE.py > allSamples.txt'
+All the sample names with respective directories will be saved to 'allSamples.txt'
+
 
