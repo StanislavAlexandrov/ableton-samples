@@ -1,5 +1,9 @@
 # ableton-samples
 
+2025: updated script, more robust regex etc, now exports to .json. Issue: Large .als files with collected samples take a while to process.
+
+TODO: Perfomance tweaks (multithreading)
+
 2022 edit: I have redone this as a website here: <https://ableton-samples-list.vercel.app/>
 
 A Python 3 script that displays all .WAV, .MP3 and .AIFF samples and VSTs (beta) used in an Ableton Live project.
