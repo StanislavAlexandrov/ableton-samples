@@ -29,6 +29,6 @@ New command line version will list all the samples from a folder of projects. On
 1. Copy the abletonSamplesFinal_ALL_COMMANDLINE.py file into the root of the directory with your projects.
 2. Open the terminal and navigate to the same project directory using the cd command (e.g., cd PATH_TO_YOUR_DIRECTORY). You can also drag the folder into the terminal instead of typing.
 3. In the terminal, enter the following command (without quotes): python3 abletonSamplesFinal_ALL_COMMANDLINE.py
-4. The script will now run, printing progress messages to the terminal. Once it is complete, all the sample names with respective directories will be saved to a file called allSamples.txt in the same directory.
+4. The script will now run, printing progress messages to the terminal. Once it is complete, all the sample names with respective directories will be saved to a file called allSamples.json in the same directory.
 
 Note that you no longer need to redirect the output to allSamples.txt using >, as the script now handles this for you.
